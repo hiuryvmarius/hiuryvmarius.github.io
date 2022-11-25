@@ -78,3 +78,4 @@ Veja mais sobre "Copa do Mundo" em: https://brasilescola.uol.com.br/educacao-fis
 #https://brasilescola.uol.com.br/educacao-fisica/copa-mundo-russia-2018.htm
 
 <img src=taca.webp > 
+ #fim.
